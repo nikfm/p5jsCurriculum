@@ -1,4 +1,4 @@
-# p5jsCurriculum
+# An introductory p5.js Curriculum 
 A curriculum for students with low computer literacy to learn the basics of p5.js
 
 This curriculum currently has 8 (soon to be 10) modules. It is intended to be delivered in person to learners without much familiarity with computers. However, the instructions in each module have been written so that a learner should be able to follow along without in-person guidance.
