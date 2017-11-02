@@ -8,3 +8,5 @@ For a brief outline of the course, view the Course Outline document.
 Modules 2, 3 & 4 can be skipped if the learners are familiar with computers (and using a web broswer) and are seeking detailed instructions on how to start creative coding in p5.js.
 
 Modules are available in PDF and OpenDocument formats for ease of use and editing. Feel free to modify the curriculum in whatever way you see fit.
+
+#### If you use the curriculum or have feedback, I'd love to hear about it! Twitter: @thenikFM
